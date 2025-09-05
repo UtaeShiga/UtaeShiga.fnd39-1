@@ -1,0 +1,33 @@
+.green {
+  background-color: skyblue;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  text-align: center;
+  /* ボタンを水平方向中央に配置 */
+}
+
+.green input[type="text"] {
+  margin-bottom: 50px;
+  /* 入力フィールドとボタンの間に余白 */
+  padding: 8px;
+  /* 入力フィールドの内側余白 */
+
+}
+
+.green button {
+  padding: 10px 15px;
+  font-size: 20pt;
+  border-radius: 20px;
+  /* 5pxの丸み */
+  /* 文字サイズ */
+  /* ボタンのパディング */
+
+}
+
+.blue {
+  background-color: lightblue;
+  width: 300px;
+  height: 50px;
+
+}
